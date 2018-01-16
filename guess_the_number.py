@@ -1,8 +1,8 @@
 import random
 
 correct = 'you guessed correctly!'
-too_low = 'Too Low'
-too_high = "Too High"
+too_low = 'Too Low!!'
+too_high = 'Too High!!'
 total_guesses = 0
 error = 'invalid entry or out of range'
 
